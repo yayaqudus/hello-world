@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Chelsea Fc</title>
+    <title>Chelsea FootBall Club</title>
     <link rel="stylesheet" type="text/css" href="index.css">
 </head>
 <img src="blues.jpg">
