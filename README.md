@@ -1,10 +1,13 @@
-# hello-world
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chelsea Fc</title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<img src="blues.jpg">
+<h1>Blues for life</h1>
+Join the Billioners Club
+<body>
 
-THE PLEDGE
-
-I pledge to Nigeria my country.
-To be faithful loyal and honest.
-To serve Nigeria with all my strength.
-To defend her unity.
-And uphold her honour and glory.
-So help me God.
+</body>
+</html>
